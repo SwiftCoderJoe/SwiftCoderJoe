@@ -2,8 +2,7 @@
 ![](https://github.com/SwiftCoderJoe/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/SwiftCoderJoe/github-stats/blob/master/generated/languages.svg)
 
-### Check out my website!
-https://swiftcoderjoe.github.io
+### [Check out my website!](https://swiftcoderjoe.github.io)
 
 ### Info
 
