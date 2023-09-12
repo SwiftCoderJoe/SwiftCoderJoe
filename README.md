@@ -5,7 +5,7 @@
 
 ### Info
 
-I'm currently working on an iOS app called Memeinator. It's nearing release, at which point I will make it open source and host it on GitHub!
+I'm currently working on a golf app named StatShot. It's still in the early stages, but it's pretty cool!
 
 I mainly work in Swift, but I also know JavaScript and many other languages. I learn quickly and I'm always ready to try something new!
 
