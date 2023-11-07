@@ -5,7 +5,7 @@
 
 ### Info
 
-I'm currently working on a golf app named StatShot. It's still in the early stages, but it's pretty cool!
+I'm currently working on a golf app named StatShot. It has just recently been released to the App Store. [Visit the homepage!](https://statshot.joecardenas.dev/)
 
 I mainly work in Swift, but I also know JavaScript and many other languages. I learn quickly and I'm always ready to try something new!
 
